@@ -1,0 +1,56 @@
+body{
+	font: normal 16px Calibri;
+	margin:15px;
+	padding:0px 5px 0px 5px;
+}
+h1{
+	font: normal Calibri;
+	border-bottom: 5px double black;
+	padding-bottom: 0px;
+	margin:0px 0px 5px 0px;
+
+}
+h3{
+	color:#639;
+	border-bottom:	2px #639 solid;
+	border-top:	2px #639 solid;
+	margin:4px 0px 4px 0px;
+}
+p{
+	margin:2px;
+}
+ul{
+	list-style-type: square;
+	margin-top: 5px;
+}
+dl{
+	margin-top:5px;
+}
+dt{
+	color:#639;
+}
+.address{
+	float: left;
+	width:50%;
+}
+
+.container{
+	width: 70%;
+	margin:auto;
+	border:2px solid #639;
+	}
+.profileimage{
+	width:10%;
+	height:auto;
+	float:left;
+	margin-left:80%;
+	padding: 10px 0px 0px 0px;
+	margin-bottom: 0px;
+	border:0px;
+	overflow: auto;
+}
+.profileimage img{
+	width:100%;
+	height:auto;
+	border-radius:45%;
+}
